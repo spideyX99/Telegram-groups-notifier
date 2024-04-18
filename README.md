@@ -18,12 +18,12 @@ The Telegram Multi-Group Notification Bot is a simple yet powerful bot that allo
    - Users can add the bot to their Telegram groups by searching for its username or using the provided link.
 
 2. **Sending Notifications:**
-   - Users can send notifications by using the `/send <message>` command. The message will be broadcasted to all the groups the bot has joined.
+   - Users can send notifications by using the `/send` command. The message will be broadcasted to all the groups the bot has joined.
 
 **Bot Commands:**
 
 - `/start`: Initializes the bot and sends a welcome message to new chat members.
-- `/send <message>`: Sends a notification message to all the groups the bot has joined.
+- `/send`: Sends a notification message to all the groups the bot has joined.
 
 **Privacy and Security:**
 
